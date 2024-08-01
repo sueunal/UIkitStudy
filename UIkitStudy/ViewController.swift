@@ -4,10 +4,8 @@
 //
 //  Created by Soom on 8/1/24.
 //
-
 import UIKit
 
-import UIKit
 
 class ViewController: UIViewController {
     override func viewDidLoad() {
